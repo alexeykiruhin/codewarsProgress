@@ -29,6 +29,7 @@
   - Exes and Ohs https://www.codewars.com/kata/55908aad6620c066bc00002a
   - Vowel Count https://www.codewars.com/kata/54ff3102c1bad923760001f3
   - Credit Card Mask https://www.codewars.com/kata/5412509bd436bd33920011bc
+  - Isograms https://www.codewars.com/kata/54ba84be607a92aa900000f1
 
 - 6kyu
   - Your order, please https://www.codewars.com/kata/55c45be3b2079eccff00010f
