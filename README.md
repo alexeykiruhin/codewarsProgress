@@ -35,3 +35,4 @@
   - Your order, please https://www.codewars.com/kata/55c45be3b2079eccff00010f
   - Multiples of 3 or 5 https://www.codewars.com/kata/514b92a657cdc65150000006
   - Take a Ten Minute Walk https://www.codewars.com/kata/54da539698b8a2ad76000228
+  - Find The Parity Outlier https://www.codewars.com/kata/5526fc09a1bbd946250002dc
