@@ -36,6 +36,7 @@
   - Multiples of 3 or 5 https://www.codewars.com/kata/514b92a657cdc65150000006
   - Take a Ten Minute Walk https://www.codewars.com/kata/54da539698b8a2ad76000228
   - Find The Parity Outlier https://www.codewars.com/kata/5526fc09a1bbd946250002dc
+  - Split Strings https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 
 - 5kyu
   - Moving Zeros To The End https://www.codewars.com/kata/52597aa56021e91c93000cb0
