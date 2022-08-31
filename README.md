@@ -33,6 +33,7 @@
   - String ends with? https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
   - Number of People in the Bus https://www.codewars.com/kata/5648b12ce68d9daa6b000099
   - Is this a triangle? https://www.codewars.com/kata/56606694ec01347ce800001b
+  - Highest and Lowest https://www.codewars.com/kata/554b4ac871d6813a03000035
 
 - 6kyu
   - Your order, please https://www.codewars.com/kata/55c45be3b2079eccff00010f
@@ -40,6 +41,7 @@
   - Take a Ten Minute Walk https://www.codewars.com/kata/54da539698b8a2ad76000228
   - Find The Parity Outlier https://www.codewars.com/kata/5526fc09a1bbd946250002dc
   - Split Strings https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+  - Sum of Digits / Digital Root https://www.codewars.com/kata/541c8630095125aba6000c00
 
 - 5kyu
   - Moving Zeros To The End https://www.codewars.com/kata/52597aa56021e91c93000cb0
