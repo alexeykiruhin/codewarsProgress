@@ -30,6 +30,9 @@
   - Vowel Count https://www.codewars.com/kata/54ff3102c1bad923760001f3
   - Credit Card Mask https://www.codewars.com/kata/5412509bd436bd33920011bc
   - Isograms https://www.codewars.com/kata/54ba84be607a92aa900000f1
+  - String ends with? https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
+  - Number of People in the Bus https://www.codewars.com/kata/5648b12ce68d9daa6b000099
+  - Is this a triangle? https://www.codewars.com/kata/56606694ec01347ce800001b
 
 - 6kyu
   - Your order, please https://www.codewars.com/kata/55c45be3b2079eccff00010f
